@@ -39,10 +39,7 @@ A few featured projects:
 - **Web Development**: HTML, CSS, JavaScript, Responsive Design  
 - **Other**: Video Editing, Photography, Cooking (creative hobbies)
 
-### 5. Contact
-- 📧 Email: [your-email@example.com]  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile]  
-- 💻 GitHub: [github.com/yourusername]
+
 
 ---
 
